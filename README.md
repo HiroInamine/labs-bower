@@ -9,3 +9,10 @@ No diretório onde está localizado o arquivo executar o comando
 ```
 bower install
 ```
+
+## Informações adicionais
+#### Bower
+Onde encontrar pacotes bower: Link: http://bower.io/search/
+Documentação api: http://bower.io/docs/api/
+
+Template HTML baseado no https://github.com/h5bp/html5-boilerplate

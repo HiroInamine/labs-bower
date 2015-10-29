@@ -1,0 +1,23 @@
+{
+  "name": "labs-bower",
+  "homepage": "https://github.com/HiroInamine/getting_started_bower",
+  "authors": [
+    "HiroInamine <hiroinamine@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "moduleType": [],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.1.4",
+    "bootstrap": "4.0.0-alpha"
+  }
+}
